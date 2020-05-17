@@ -1,0 +1,30 @@
+{
+  "name": "ar-cptext-proto",
+  "version": "1.0.0",
+  "description": "AR Copy Paste Text Proto",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.3.0"
+  },
+  "dependencies": {
+    "electron-screencapture": "^1.1.0",
+    "express": "^4.17.1",
+    "node-osascript": "^2.1.0",
+    "node-window-manager": "^2.2.3",
+    "screenshot-desktop": "^1.12.0",
+    "sharp": "^0.25.2"
+  }
+}
