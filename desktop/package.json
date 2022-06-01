@@ -25,6 +25,6 @@
     "node-osascript": "^2.1.0",
     "node-window-manager": "^2.2.3",
     "screenshot-desktop": "^1.12.0",
-    "sharp": "^0.25.2"
+    "sharp": "^0.30.5"
   }
 }
