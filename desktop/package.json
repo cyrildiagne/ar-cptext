@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "electron-screencapture": "^1.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-osascript": "^2.1.0",
     "node-window-manager": "^2.2.3",
     "screenshot-desktop": "^1.12.0",
